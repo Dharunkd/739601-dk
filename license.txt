@@ -174,4 +174,5 @@
       of your accepting any such warranty or additional liability.
 Just  change for testing
 Testing phase2
+without plugin
 	END OF TERMS AND CONDITIONS
