@@ -175,4 +175,5 @@
 Just  change for testing
 Testing phase2
 without plugin
+with pluggin
 	END OF TERMS AND CONDITIONS
